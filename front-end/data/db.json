@@ -1,0 +1,242 @@
+{
+  "libri": [
+    {
+      "id": 1,
+      "titolo": "Tutti su questo treno sono sospetti",
+      "autore": "Benjamin Stevenson",
+      "codice_ISBN": 2000000130361,
+      "data_aggiunta": "",
+      "data_eliminazione": "",
+      "trama": "Ernest Cunningham è nei guai. Dopo essere diventato famoso per aver scritto un true crime sulla sua famiglia – una famiglia micidiale: hanno tutti ucciso qualcuno –, il suo agente letterario e il suo editore gli chiedono con insistenza un nuovo libro. Ma dove trovare l’ispirazione, senza che qualcuno ci rimetta la pelle? L’occasione si presenta sotto forma di un invito al Festival Australiano del Giallo. In omaggio ad Assassinio sull’Orient Express di Agatha Christie, gli organizzatori hanno deciso di riunire un gruppo di celebri giallisti a bordo del Ghan, il treno che attraversa l’Australia, da Darwin a Adelaide. Durante il viaggio, Ernie avrà modo di confrontarsi con i colleghi e forse, chissà, di mettersi finalmente al lavoro. Neanche il tempo di partire che ci scappa il morto. Per deformazione professionale, ciascuno dei giallisti inizia subito a elaborare teorie in base alla propria specializzazione: c’è chi procede per deduzione, chi veste i panni del medico legale e chi traccia il profilo psicologico del possibile assassino. A bordo sono tutti sospetti. Sulla carta sanno tutti come ragiona un detective e, prima ancora, come si commette un crimine, ma chi è passato dalla teoria alla pratica?",
+      "numero_letture": 0,
+      "rating": 4,
+      "pagine": [
+        "page_1",
+        "page_2",
+        "page_3",
+        "page_4"
+      ],
+      "evidenza": false,
+      "data_pubblicazione": "2023-12-6",
+      "numero_pagine": 368,
+      "mark": false
+    },
+    {
+      "id": 2,
+      "titolo": "Amore senza fine. Love me love me. Vol. 3",
+      "autore": "Stefania S.",
+      "codice_ISBN": 9788855441865,
+      "data_aggiunta": "",
+      "data_eliminazione": "",
+      "trama": "L'amore non è mai sbagliato. È ormai giunto l'ultimo anno di liceo per June. Le cose tra lei e James non potrebbero andare meglio di così, ora che entrambi hanno ammesso i sentimenti che provano l'uno per l'altra. Le cose cambiano quando lui, dopo una visita misteriosa a casa, scompare senza lasciare traccia. Chiedere aiuto alla polizia non è un'opzione e così la ragazza non può fare altro che rivolgersi a William. Ben presto si renderà conto che sono ancora troppi i segreti che si nascondono dietro la famiglie che credeva di conoscere e che coinvolgono le persone a cui tiene di più. Ma può l'amore sopravvivere a tutto? Può un legame essere così forte da durare per sempre?",
+      "numero_letture": 0,
+      "rating": 5,
+      "pagine": [
+        "page_1",
+        "page_2",
+        "page_3",
+        "page_4"
+      ],
+      "evidenza": false,
+      "data_pubblicazione": "2021-3-25",
+      "numero_pagine": 672,
+      "mark": false
+    },
+    {
+      "id": 3,
+      "titolo": "La meraviglia del tutto. Conversazioni con Massimo Polidoro",
+      "autore": "Piero Angela, Massimo Polidoro",
+      "codice_ISBN": 9788804784982,
+      "data_aggiunta": "",
+      "data_eliminazione": "",
+      "trama": "Questo è probabilmente l'ultimo libro che scrivo. Non pensavo di farlo, ma poi ho riflettuto che forse ne valeva la pena. Adesso vorrei dire anch'io quello che penso, le domande che mi pongo, le cose che ho compreso… È un libro che forse voglio scrivere anche per me stesso, oltre che per i lettori.' Da tempo Piero Angela lavorava a queste pagine, frutto di un confronto – durato decenni – con il suo storico collaboratore Massimo Polidoro. Una conversazione, è il caso di dirlo, sui massimi sistemi: l'universo, la natura, l'uomo. Si parla di scienza insomma, che lo appassionava e che era tanto bravo a divulgare. 'Pensa come uno scienziato', oltre a essere sempre stato il suo consiglio ai giovani, è anche la chiave di lettura e di comprensione del presente che viene loro offerta da questo libro. Ogni cosa della vita, ogni argomento può, anzi deve essere affrontato con la razionalità tipica del metodo scientifico. Ma allo stesso tempo non bisogna mai perdere la curiosità, l'umiltà e il senso di meraviglia. Solo così si capisce, e si cresce. La meraviglia del tutto è una lezione di vita che accompagna il lettore in un viaggio alle origini dell'uomo, questo 'pezzetto di universo che ha acquisito la capacità di voltarsi indietro e di ricostruire la propria storia straordinaria'. Ogni capitolo apre una porta che dà su porte successive, e la grande capacità narrativa di Angela cattura la curiosità del lettore e lo trascina nell'affascinante avventura della conoscenza. Questo libro non sarebbe stato possibile senza Massimo Polidoro, l'allievo che nel corso di trent'anni ha 'interrogato' il maestro stimolandolo con le sue domande. Che sono poi le stesse che tutti noi ci facciamo. E a cui Piero Angela risponde con la chiarezza e l'onestà intellettuale che abbiamo sempre ammirato.",
+      "numero_letture": 0,
+      "rating": 5,
+      "pagine": [
+        "page_1",
+        "page_2",
+        "page_3",
+        "page_4"
+      ],
+      "evidenza": false,
+      "data_pubblicazione": "2023-7-5",
+      "numero_pagine": 540,
+      "mark": false
+    },
+    {
+      "id": 4,
+      "titolo": "La mia Ingeborg",
+      "autore": "Tore Renberg",
+      "codice_ISBN": 9791259671257,
+      "data_aggiunta": "",
+      "data_eliminazione": "",
+      "trama": "Tollak è un uomo pieno di contraddizioni: testardo e sensibile, rude e orgoglioso. Un uomo impossibile, a detta di molti. Ormai vecchio e solo, barricato nella sua fattoria, non fa che imprecare contro il mondo che da tempo, per lui, ha smesso di avere senso. L’unica persona che lo teneva attaccato alla vita era lei: sua moglie Ingeborg, amatissima, scomparsa da qualche anno. “Tollak di Ingeborg”, lo chiamava la gente del paese. I suoi due figli, ora adulti, hanno abbandonato la valle, teatro di un’infanzia difficile; oggi vivono in città e passano a trovarlo di rado. Soltanto Oddo è rimasto con lui: “Oddoloscemo”, per i vicini, lo zimbello di tutti, un ragazzo problematico di cui si prende cura da quando, ancora bambino, è stato abbandonato dalla madre. La vita di Tollak, soprattutto negli ultimi anni, è stata avvolta nel silenzio: troppo difficile dare voce alla rabbia che gli brucia dentro. Ma ora è giunto il momento di parlare, di raccontare finalmente la sua verità. Così, l’uomo insiste affinché sua figlia e suo figlio tornino a casa ancora una volta, forse l’ultima. Prima che sia troppo tardi ha bisogno di condividere il suo segreto. O meglio, i suoi segreti: le verità che Tollak ha sempre tenuto per sé sono molte, e sono una più sconvolgente dell’altra.",
+      "numero_letture": 0,
+      "rating": 4,
+      "pagine": [
+        "page_1",
+        "page_2",
+        "page_3",
+        "page_4"
+      ],
+      "evidenza": false,
+      "data_pubblicazione": "2024-2-6",
+      "numero_pagine": 180,
+      "mark": false
+    }
+  ],
+  "utenti": [
+    {
+      "id": 1,
+      "nome": "Gabriele",
+      "cognome": "Zhou",
+      "email": "dreamwalker579@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "email": "hello@gmail.com"
+    }
+  ],
+  "utentiLibri": [
+    {
+      "id": 1,
+      "listaLibri": [
+        {
+          "id": 1,
+          "titolo": "Tutti su questo treno sono sospetti",
+          "autore": "Benjamin Stevenson",
+          "codice_ISBN": 2000000130361,
+          "data_aggiunta": "2024-2-12",
+          "data_eliminazione": "",
+          "trama": "Ernest Cunningham è nei guai. Dopo essere diventato famoso per aver scritto un true crime sulla sua famiglia – una famiglia micidiale: hanno tutti ucciso qualcuno –, il suo agente letterario e il suo editore gli chiedono con insistenza un nuovo libro. Ma dove trovare l’ispirazione, senza che qualcuno ci rimetta la pelle? L’occasione si presenta sotto forma di un invito al Festival Australiano del Giallo. In omaggio ad Assassinio sull’Orient Express di Agatha Christie, gli organizzatori hanno deciso di riunire un gruppo di celebri giallisti a bordo del Ghan, il treno che attraversa l’Australia, da Darwin a Adelaide. Durante il viaggio, Ernie avrà modo di confrontarsi con i colleghi e forse, chissà, di mettersi finalmente al lavoro. Neanche il tempo di partire che ci scappa il morto. Per deformazione professionale, ciascuno dei giallisti inizia subito a elaborare teorie in base alla propria specializzazione: c’è chi procede per deduzione, chi veste i panni del medico legale e chi traccia il profilo psicologico del possibile assassino. A bordo sono tutti sospetti. Sulla carta sanno tutti come ragiona un detective e, prima ancora, come si commette un crimine, ma chi è passato dalla teoria alla pratica?",
+          "numero_letture": 0,
+          "rating": 4,
+          "pagine": [
+            "page_1",
+            "page_2",
+            "page_3",
+            "page_4"
+          ],
+          "evidenza": true,
+          "data_pubblicazione": "2023-12-6",
+          "numero_pagine": 368,
+          "mark": false
+        },
+        {
+          "id": 2,
+          "titolo": "Amore senza fine. Love me love me. Vol. 3",
+          "autore": "Stefania S.",
+          "codice_ISBN": 9788855441865,
+          "data_aggiunta": "2024-2-12",
+          "data_eliminazione": "",
+          "trama": "L'amore non è mai sbagliato. È ormai giunto l'ultimo anno di liceo per June. Le cose tra lei e James non potrebbero andare meglio di così, ora che entrambi hanno ammesso i sentimenti che provano l'uno per l'altra. Le cose cambiano quando lui, dopo una visita misteriosa a casa, scompare senza lasciare traccia. Chiedere aiuto alla polizia non è un'opzione e così la ragazza non può fare altro che rivolgersi a William. Ben presto si renderà conto che sono ancora troppi i segreti che si nascondono dietro la famiglie che credeva di conoscere e che coinvolgono le persone a cui tiene di più. Ma può l'amore sopravvivere a tutto? Può un legame essere così forte da durare per sempre?",
+          "numero_letture": 0,
+          "rating": 5,
+          "pagine": [
+            "page_1",
+            "page_2",
+            "page_3",
+            "page_4"
+          ],
+          "evidenza": true,
+          "data_pubblicazione": "2021-3-25",
+          "numero_pagine": 672,
+          "mark": false
+        },
+        {
+          "id": 4,
+          "titolo": "La mia Ingeborg",
+          "autore": "Tore Renberg",
+          "codice_ISBN": 9791259671257,
+          "data_aggiunta": "2024-2-12",
+          "data_eliminazione": "",
+          "trama": "Tollak è un uomo pieno di contraddizioni: testardo e sensibile, rude e orgoglioso. Un uomo impossibile, a detta di molti. Ormai vecchio e solo, barricato nella sua fattoria, non fa che imprecare contro il mondo che da tempo, per lui, ha smesso di avere senso. L’unica persona che lo teneva attaccato alla vita era lei: sua moglie Ingeborg, amatissima, scomparsa da qualche anno. “Tollak di Ingeborg”, lo chiamava la gente del paese. I suoi due figli, ora adulti, hanno abbandonato la valle, teatro di un’infanzia difficile; oggi vivono in città e passano a trovarlo di rado. Soltanto Oddo è rimasto con lui: “Oddoloscemo”, per i vicini, lo zimbello di tutti, un ragazzo problematico di cui si prende cura da quando, ancora bambino, è stato abbandonato dalla madre. La vita di Tollak, soprattutto negli ultimi anni, è stata avvolta nel silenzio: troppo difficile dare voce alla rabbia che gli brucia dentro. Ma ora è giunto il momento di parlare, di raccontare finalmente la sua verità. Così, l’uomo insiste affinché sua figlia e suo figlio tornino a casa ancora una volta, forse l’ultima. Prima che sia troppo tardi ha bisogno di condividere il suo segreto. O meglio, i suoi segreti: le verità che Tollak ha sempre tenuto per sé sono molte, e sono una più sconvolgente dell’altra.",
+          "numero_letture": 2,
+          "rating": 4,
+          "pagine": [
+            "page_1",
+            "page_2",
+            "page_3",
+            "page_4"
+          ],
+          "evidenza": true,
+          "data_pubblicazione": "2024-2-6",
+          "numero_pagine": 180,
+          "mark": false
+        },
+        {
+          "id": 3,
+          "titolo": "La meraviglia del tutto. Conversazioni con Massimo Polidoro",
+          "autore": "Piero Angela, Massimo Polidoro",
+          "codice_ISBN": 9788804784982,
+          "data_aggiunta": "2024-2-12",
+          "data_eliminazione": "",
+          "trama": "Questo è probabilmente l'ultimo libro che scrivo. Non pensavo di farlo, ma poi ho riflettuto che forse ne valeva la pena. Adesso vorrei dire anch'io quello che penso, le domande che mi pongo, le cose che ho compreso… È un libro che forse voglio scrivere anche per me stesso, oltre che per i lettori.' Da tempo Piero Angela lavorava a queste pagine, frutto di un confronto – durato decenni – con il suo storico collaboratore Massimo Polidoro. Una conversazione, è il caso di dirlo, sui massimi sistemi: l'universo, la natura, l'uomo. Si parla di scienza insomma, che lo appassionava e che era tanto bravo a divulgare. 'Pensa come uno scienziato', oltre a essere sempre stato il suo consiglio ai giovani, è anche la chiave di lettura e di comprensione del presente che viene loro offerta da questo libro. Ogni cosa della vita, ogni argomento può, anzi deve essere affrontato con la razionalità tipica del metodo scientifico. Ma allo stesso tempo non bisogna mai perdere la curiosità, l'umiltà e il senso di meraviglia. Solo così si capisce, e si cresce. La meraviglia del tutto è una lezione di vita che accompagna il lettore in un viaggio alle origini dell'uomo, questo 'pezzetto di universo che ha acquisito la capacità di voltarsi indietro e di ricostruire la propria storia straordinaria'. Ogni capitolo apre una porta che dà su porte successive, e la grande capacità narrativa di Angela cattura la curiosità del lettore e lo trascina nell'affascinante avventura della conoscenza. Questo libro non sarebbe stato possibile senza Massimo Polidoro, l'allievo che nel corso di trent'anni ha 'interrogato' il maestro stimolandolo con le sue domande. Che sono poi le stesse che tutti noi ci facciamo. E a cui Piero Angela risponde con la chiarezza e l'onestà intellettuale che abbiamo sempre ammirato.",
+          "numero_letture": 0,
+          "rating": 5,
+          "pagine": [
+            "page_1",
+            "page_2",
+            "page_3",
+            "page_4"
+          ],
+          "evidenza": true,
+          "data_pubblicazione": "2023-7-5",
+          "numero_pagine": 540,
+          "mark": false
+        }
+      ],
+      "listaLibriEliminati": []
+    },
+    {
+      "id": 2,
+      "listaLibri": [
+        {
+          "id": 1,
+          "titolo": "Tutti su questo treno sono sospetti",
+          "autore": "Benjamin Stevenson",
+          "codice_ISBN": 2000000130361,
+          "data_aggiunta": "2024-2-12",
+          "data_eliminazione": "",
+          "trama": "Ernest Cunningham è nei guai. Dopo essere diventato famoso per aver scritto un true crime sulla sua famiglia – una famiglia micidiale: hanno tutti ucciso qualcuno –, il suo agente letterario e il suo editore gli chiedono con insistenza un nuovo libro. Ma dove trovare l’ispirazione, senza che qualcuno ci rimetta la pelle? L’occasione si presenta sotto forma di un invito al Festival Australiano del Giallo. In omaggio ad Assassinio sull’Orient Express di Agatha Christie, gli organizzatori hanno deciso di riunire un gruppo di celebri giallisti a bordo del Ghan, il treno che attraversa l’Australia, da Darwin a Adelaide. Durante il viaggio, Ernie avrà modo di confrontarsi con i colleghi e forse, chissà, di mettersi finalmente al lavoro. Neanche il tempo di partire che ci scappa il morto. Per deformazione professionale, ciascuno dei giallisti inizia subito a elaborare teorie in base alla propria specializzazione: c’è chi procede per deduzione, chi veste i panni del medico legale e chi traccia il profilo psicologico del possibile assassino. A bordo sono tutti sospetti. Sulla carta sanno tutti come ragiona un detective e, prima ancora, come si commette un crimine, ma chi è passato dalla teoria alla pratica?",
+          "numero_letture": 0,
+          "rating": 4,
+          "pagine": [
+            "page_1",
+            "page_2",
+            "page_3",
+            "page_4"
+          ],
+          "evidenza": true,
+          "data_pubblicazione": "2023-12-6",
+          "numero_pagine": 368,
+          "mark": false
+        },
+        {
+          "id": 2,
+          "titolo": "Amore senza fine. Love me love me. Vol. 3",
+          "autore": "Stefania S.",
+          "codice_ISBN": 9788855441865,
+          "data_aggiunta": "2024-2-12",
+          "data_eliminazione": "",
+          "trama": "L'amore non è mai sbagliato. È ormai giunto l'ultimo anno di liceo per June. Le cose tra lei e James non potrebbero andare meglio di così, ora che entrambi hanno ammesso i sentimenti che provano l'uno per l'altra. Le cose cambiano quando lui, dopo una visita misteriosa a casa, scompare senza lasciare traccia. Chiedere aiuto alla polizia non è un'opzione e così la ragazza non può fare altro che rivolgersi a William. Ben presto si renderà conto che sono ancora troppi i segreti che si nascondono dietro la famiglie che credeva di conoscere e che coinvolgono le persone a cui tiene di più. Ma può l'amore sopravvivere a tutto? Può un legame essere così forte da durare per sempre?",
+          "numero_letture": 0,
+          "rating": 5,
+          "pagine": [
+            "page_1",
+            "page_2",
+            "page_3",
+            "page_4"
+          ],
+          "evidenza": true,
+          "data_pubblicazione": "2021-3-25",
+          "numero_pagine": 672,
+          "mark": true
+        }
+      ],
+      "listaLibriEliminati": []
+    }
+  ]
+}
