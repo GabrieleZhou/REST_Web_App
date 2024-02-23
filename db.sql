@@ -1,4 +1,5 @@
-use hastega;
+create database if not exists db;
+use db;
 
 create table if not exists libri(
 id int auto_increment primary key,
