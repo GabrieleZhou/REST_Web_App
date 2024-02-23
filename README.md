@@ -1,1 +1,5 @@
-Prova tecnica per Hastega - 2024 - Gabriele Zhou
+Tecnologie utilizzate per l'applicazione - 2024 - Gabriele Zhou
+
+Front-end: VueJS  
+Back-end: SpringBoot  
+Database: mySQL  
